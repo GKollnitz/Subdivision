@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OptimizeSubdiv"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OptimizeSubdiv">
+				<Option output="/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/OptimizeSubdiv" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 OptimizeSubdiv"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OptimizeSubdiv/fast">
+				<Option output="/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/OptimizeSubdiv" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 OptimizeSubdiv/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/HE_Mesh.cpp">
+			<Option target="OptimizeSubdiv"/>
+		</Unit>
+		<Unit filename="/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/HE_Mesh.h">
+			<Option target="OptimizeSubdiv"/>
+		</Unit>
+		<Unit filename="/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/HEdge.h">
+			<Option target="OptimizeSubdiv"/>
+		</Unit>
+		<Unit filename="/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/Mathlib3d.h">
+			<Option target="OptimizeSubdiv"/>
+		</Unit>
+		<Unit filename="/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/main.cpp">
+			<Option target="OptimizeSubdiv"/>
+		</Unit>
+		<Unit filename="/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

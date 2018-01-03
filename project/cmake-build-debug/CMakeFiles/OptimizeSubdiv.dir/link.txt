@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/OptimizeSubdiv.dir/main.cpp.o CMakeFiles/OptimizeSubdiv.dir/HE_Mesh.cpp.o  -o OptimizeSubdiv 

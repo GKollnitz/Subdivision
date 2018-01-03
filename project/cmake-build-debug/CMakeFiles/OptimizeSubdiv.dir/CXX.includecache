@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/HE_Mesh.cpp
+vector
+-
+Mathlib3d.h
+/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/Mathlib3d.h
+sstream
+-
+cstring
+-
+HE_Mesh.h
+/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/HE_Mesh.h
+
+/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/HE_Mesh.h
+HEdge.h
+/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/HEdge.h
+
+/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/HEdge.h
+Mathlib3d.h
+/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/Mathlib3d.h
+vector
+-
+
+/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/Mathlib3d.h
+math.h
+-
+iostream
+-
+
+/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/main.cpp
+iostream
+-
+HE_Mesh.h
+/home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/HE_Mesh.h
+

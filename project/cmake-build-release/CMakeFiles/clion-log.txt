@@ -1,0 +1,4 @@
+/home/gunkol-5/clion-2017.2.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/gunkol-5/Documents/git/gunkol-5/S0017D/OptimizeSubdiv/cmake-build-release
